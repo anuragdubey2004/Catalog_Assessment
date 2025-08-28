@@ -1,0 +1,1 @@
+Secret (constant term): 1.10681e+020
